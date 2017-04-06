@@ -4,4 +4,4 @@ version = "0.1.0"
 authors = [{{toml-escape author}}]
 
 [dependencies]
-gcj-helper = "0.4"
+gcj-helper = "0.5"

@@ -1,3 +1,5 @@
+// https://crates.io/crates/gcj-helper
+// https://github.com/FaultyRAM/gcj-helper-rs
 extern crate gcj_helper;
 
 use gcj_helper::TestEngine;
